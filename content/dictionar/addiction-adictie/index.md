@@ -1,5 +1,5 @@
 ---
-subtitle: ""
+title: "addiction: adicție"
 summary: "addiction: adictie"
 authors: []
 tags: []
@@ -14,8 +14,6 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
-# addiction: adicție
 
 When the user powerfully craves the drug and is driven to seek it out, over and over again, no matter what the physical, social, financial, and legal cost.[^1]
 
